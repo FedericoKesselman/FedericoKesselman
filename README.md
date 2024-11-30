@@ -1,12 +1,12 @@
 <h1 align="center">Federico Kesselman </h1>
-<h2 align="center">kesselmanfederico@gmail.com</h2>
 
 <br />
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- Estudiante de Licenciatura en Sistemas, UNLP.
+- 🎓 Estudiante de Licenciatura en Sistemas, UNLP.
+- 📫 Mail: kesselmanfederico@gmail.com
 
 <br>
 
