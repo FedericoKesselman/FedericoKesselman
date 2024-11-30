@@ -24,11 +24,6 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" alt="Pascal" width="48" height="48">
     </div>
 
-    <!-- Gráfico de lenguajes -->
-    <div>
-        <img 
-           https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoKesselmanO&layout=compact&theme=transparent
-            alt="Top Langs"
-        />
-    </div>
 </div>
+
+![FedericoKesselman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoKesselman&theme=dark&show_icons=true&hide_border=true&layout=compact)
