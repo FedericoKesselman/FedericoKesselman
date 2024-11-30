@@ -2,13 +2,15 @@
 
 <br />
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-- 🎓 Estudiante de Licenciatura en Sistemas, UNLP.
-- 📫 Mail: kesselmanfederico@gmail.com
+- Estudiante de Licenciatura en Sistemas, UNLP.
+- Conocimientos medios en Java, Pyhton, Pascal y SQL.
 
 <br>
+
+<h3 style="font-family: Arial, sans-serif; text-align: center; color: #333;">Contacto</h3>
+<p style="font-family: Arial, sans-serif; text-align: center; color: #666;">
+    📧 <a href="mailto:kesselmanfederico@gmail.com" style="color: #0073e6; text-decoration: none;">kesselmanfederico@gmail.com</a> <br>
 
 <h3 align="left">Languages and Tools:</h3>
 
