@@ -15,15 +15,15 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; align-items: center;">
-    <!-- Íconos de lenguajes -->
-    <div style="margin-right: 20px;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="48" height="48">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48">
+    <!-- iconos -->
+    <div style="display: flex; flex-direction: column; margin-right: 20px;">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" style="margin-bottom: 10px;">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" style="margin-bottom: 10px;">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="48" height="48" style="margin-bottom: 10px;">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" style="margin-bottom: 10px;">
         <img src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" alt="Pascal" width="48" height="48">
     </div>
-    <!-- Gráfico de lenguajes -->
+    <!-- grafico -->
     <div>
         <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDiLorenzo&layout=compact&theme=transparent" 
