@@ -27,7 +27,7 @@
     <!-- Gráfico de lenguajes -->
     <div>
         <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDiLorenzo&layout=compact&theme=transparent" 
+           https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoKesselmanO&layout=compact&theme=transparent
             alt="Top Langs"
         />
     </div>
