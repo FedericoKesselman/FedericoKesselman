@@ -1,5 +1,5 @@
 <h1 align="center">Federico Kesselman </h1>
-<h3 align="center">**kesselmanfederico@gmail.com**</h3>
+<h3 align="center">kesselmanfederico@gmail.com</h3>
 
 <br />
 
