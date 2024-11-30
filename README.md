@@ -12,9 +12,7 @@
     📧 <a href="mailto:kesselmanfederico@gmail.com">kesselmanfederico@gmail.com</a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<div align="center">
+<div align="left">
     <!-- Íconos de lenguajes -->
     <div>
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48">
