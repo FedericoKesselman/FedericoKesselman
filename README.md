@@ -9,16 +9,14 @@
 
 <h3 align="left">Contacto</h3>
 <p align="left">
-    📧 <a href="mailto:kesselmanfederico@gmail.com" style="color: #0073e6; text-decoration: none;">kesselmanfederico@gmail.com</a>
+    📧 <a href="mailto:kesselmanfederico@gmail.com">kesselmanfederico@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Contenedor principal -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; padding: 10px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
-
+<div align="left">
     <!-- Íconos de lenguajes -->
-    <div style="display: flex; gap: 15px; align-items: center;">
+    <div>
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48">
         <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="48" height="48">
@@ -27,11 +25,10 @@
     </div>
 
     <!-- Gráfico de lenguajes -->
-    <div style="margin-left: 20px;">
+    <div>
         <img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDiLorenzo&layout=compact&theme=transparent" 
             alt="Top Langs"
-            style="border: 1px solid #ddd; border-radius: 8px; padding: 5px;"
         />
     </div>
 </div>
