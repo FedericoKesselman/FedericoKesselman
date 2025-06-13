@@ -3,7 +3,7 @@
 <br />
 
 - Estudiante de Licenciatura en Sistemas, UNLP.
-- Conocimientos medios en Java, Python, Pascal y SQL.
+- Conocimientos medios en Java, Python y SQL.
 
 <br />
 
